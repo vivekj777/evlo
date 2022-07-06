@@ -64,6 +64,7 @@ section{
     background: #5666ff;
     outline: none;
     color: white;
+    border-style:none;
     border-radius: 30px;
 }
 .content p{
